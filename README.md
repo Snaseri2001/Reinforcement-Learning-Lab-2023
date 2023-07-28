@@ -6,4 +6,4 @@ After I programmed the code for Policy and Value Iteration, I test it with some 
 [Document.pdf](https://github.com/Snaseri2001/Reinforcement-Learning-Lab-2023/files/12172250/Document.pdf)
 
 ## Taxi - Q-Learning and SARSA
-In the second project i solved the Taxi problem using Q-Learning and SARSA algorithm . You can read about this envitonmnet on this [URL](https://www.gymlibrary.dev/environments/toy_text/taxi/) .In this project we had to write a wrapper in order to provides the diagonal movements. All of the codes are exist above and the results are [here]()
+In the second project i solved the Taxi problem using Q-Learning and SARSA algorithm . You can read about this envitonmnet on this [URL](https://www.gymlibrary.dev/environments/toy_text/taxi/) .In this project we had to write a wrapper in order to provides the diagonal movements. All of the codes are exist above and the results are [here](https://github.com/Snaseri2001/Reinforcement-Learning-Lab-2023/blob/main/Taxi%20Cup/TsxiCup.pdf)
